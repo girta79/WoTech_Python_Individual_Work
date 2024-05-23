@@ -13,7 +13,7 @@ while True:
 
     if put_deposit.lower() != 'yes':
         print(f"Thank you! Your total balance is: {balance}€")
-        break 
+        break
 
 
 

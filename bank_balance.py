@@ -16,7 +16,7 @@ while True:
         break 
 
 
----------------
+
 # Medium level:
 
 print("Welcome to the Bank!")
@@ -35,7 +35,8 @@ while True:
         print(f"Thank you! Your total balance is: {balance}€")
         break 
 
--------------
+
+
 # Hard level:
 
 print("Welcome to the Bank!")

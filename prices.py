@@ -1,5 +1,5 @@
 # INDIVIDUAL WORK
-# Easy level - you will read the data from prices.txt (see additional files),  compute 
+# Easy level - you will read the data from prices.txt (see additional files), compute 
 # the total price of all items, and count the total number of purchased items. 
 
 def read_prices(filename):
